@@ -1,4 +1,23 @@
-Hey There! 🖐
-My Discord: FoxyInABoxy#1000
-Im a php developer
-Currently Working on: DREAMMC SKYBLOCK
+### FoxyInABoxy
+
+![](https://github-readme-stats.vercel.app/api?username=FoxyInABoxy&theme=vue-dark&count_private=true&include_all_commits=true)
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+- I write mostly PocketMine-MP plugins
+- Owner Of DreamMC SkyBlock
+
+### Contact
+- Discord: FoxyInABoxy#1000
+
