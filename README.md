@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I write mostly PocketMine-MP plugins
-- Owner Of DreamMC SkyBlock
-
+- Owner Of TanCraft Network
 ### Contact
 - Discord: FoxyInABoxy#1000
 
