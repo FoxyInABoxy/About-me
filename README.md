@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I write mostly PocketMine-MP plugins
-- Owner Of TanCraft Network
+- Freelancer Developer
+- PHP, HTML, CSS.
+- Learning NODE.JS
 ### Contact
-- Discord: FoxyInABoxy#1000
-
+- Discord: FoxyInABoxy#3570
