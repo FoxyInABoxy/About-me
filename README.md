@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - Learning NODE.JS
 - Pronouns: He/him
 ### Contact
-- Discord: FoxyInABoxy#3570
+- Discord: FoxyInABoxy#0001
