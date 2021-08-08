@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I write mostly **[PocketMine-MP](https://jenkins.pmmp.io)**plugins
+- I write mostly **[PocketMine-MP](https://jenkins.pmmp.io)** plugins
 - Freelancer Developer
 - **[PHP](https://php.net), HTML, CSS**.
 - Learning NODE.JS
