@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - I write mostly **[PocketMine-MP](https://jenkins.pmmp.io)** plugins
 - Freelancer Developer
 - **[PHP](https://php.net), HTML, CSS**.
-- Learning NODE.JS
+- **Learning NODE.JS**
 - Pronouns: He/him
 ### Contact
 - Discord: FoxyInABoxy#0001
